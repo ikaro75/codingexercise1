@@ -1,0 +1,12 @@
+Testsuite: com.nagarro.ParserTest
+getParsedString case 1
+getParsedString case 2
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.077 sec
+
+------------- Standard Output ---------------
+getParsedString case 1
+getParsedString case 2
+------------- ---------------- ---------------
+test:
+Deleting: /tmp/TEST-com.nagarro.ParserTest.xml
+BUILD SUCCESSFUL (total time: 0 seconds)
